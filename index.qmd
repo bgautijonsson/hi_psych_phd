@@ -1,11 +1,5 @@
 ---
-title: "hi_psych_phd"
+title: "Welcome to my website. Please hire me"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is my website
